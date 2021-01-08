@@ -1,4 +1,4 @@
 {
-"KEY1": "HTTPVALUE1",
-"KEY2": "HTTPVALUE2"
+"host": "localhost",
+"tcp/port": "9109"
 }
